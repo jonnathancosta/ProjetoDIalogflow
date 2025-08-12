@@ -1,0 +1,10 @@
+# Ignorar arquivos de ambiente e configurações
+.env
+
+# Ignorar o diretório de configurações do VS Code
+.vscode/
+
+# Ignorar arquivos de teste
+modelos.py
+teste.py
+testeconexxao.py
