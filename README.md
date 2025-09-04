@@ -1,7 +1,7 @@
 
 ### Documentação: Webhook do Bot de Vendas de Jogos
 
-Este projeto. desenvolvido em janeido de 2025, é um webhook em **Flask** projetado para interagir com o **Dialogflow CX**. Ele simula um assistente virtual para uma loja de jogos, permitindo aos usuários consultar, cadastrar, autenticar e realizar compras de jogos. O objetivo principal foi explorar a dinâmica e a arquitetura de interação entre um webhook de back-end e um agente do Dialogflow CX.
+Este projeto, desenvolvido em janeiro de 2025, é um webhook em **Flask** projetado para interagir com o **Dialogflow CX**. Ele simula um assistente virtual para uma loja de jogos, permitindo aos usuários consultar, cadastrar, autenticar e realizar compras de jogos. O objetivo principal foi explorar a dinâmica e a arquitetura de interação entre um webhook de back-end e um agente do Dialogflow CX.
 
 -----
 
