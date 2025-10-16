@@ -1,5 +1,5 @@
 DATABASE_URL="SUA-STRING_DE_CONEXAO"
-email = "ccaiplataform@gmail.com"
+email = "conta_plataformar@gmail.com"
 # Para saber como gerar uma senha de app, consulte a documentação do Google.
 senha = "SENHA_PLLATAFORMA"
 
